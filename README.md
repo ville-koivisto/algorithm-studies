@@ -1,1 +1,1 @@
-A repo for studying algorithms and data structures.
+A repo for studying rudimentary algorithms and data structures.
