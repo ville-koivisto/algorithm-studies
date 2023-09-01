@@ -1,10 +1,5 @@
-""" A recursive function for checking if a positive integer is a power of two.
-
-    - Base case: smallest possible power of non-negative value == 1
-    - If n meets the base case, stop recursion and return true
-    - Check if the remainder for n divided by 2 is zero
-    - If so, call the function again with a floor division of n
-    - If not, return false
+"""
+A recursive function for checking if a positive integer is a power of two.
 """
 
 def check_power (n):
